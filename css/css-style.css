@@ -750,11 +750,11 @@ textarea.error {
   }
 
   .btn-form {
-    margin-top: 10px;
+    margin-top: 20px;
     margin-right: 5px;
     margin-left: 5px;
     padding: 0 50px;
-    font-size: 22px;
+    font-size: 18px;
   }
 
   .in-form {
